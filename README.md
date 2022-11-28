@@ -1,7 +1,7 @@
 ### hello :D
 systems, network, security programmer
 
-recently intrigued by javascript
+recently intrigued by possibilities of javascript (internet programming is cool?! :) )
 
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
