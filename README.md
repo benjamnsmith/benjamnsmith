@@ -1,4 +1,5 @@
-### Hi there 👋
+### systems, network, security programmer
+### recently intrigued by javascript
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
