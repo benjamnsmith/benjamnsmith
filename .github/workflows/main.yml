@@ -18,7 +18,7 @@ jobs:
           
           # Language breakdown across ALL repos (no names shown)
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, shell, assembly
           plugin_languages_details: percentage, bytes-size
           
           # Lines of code - aggregate only
